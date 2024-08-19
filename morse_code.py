@@ -38,8 +38,7 @@ def translator(text_tr):
         '7' : ' - - * * * ',
         '8' : ' - - - * * ',
         '9' : '  - - - - * ',
-        '0' : ' - - - - - ',
-        ' ' : ''
+        '0' : ' - - - - - '
     }
     
     #split the sentence received into a list of strings at the whitespaces
